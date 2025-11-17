@@ -1,0 +1,5 @@
+{
+  "name": "Task Management System",
+  "description": "A full-stack application for managing, assigning, and tracking work progress between users and administrators. The system supports task creation, assignments, submissions, automatic scoring, and user management with clear role-based permissions.",
+  "requestFramePermissions": []
+}
